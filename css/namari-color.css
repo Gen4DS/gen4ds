@@ -54,7 +54,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color:#111;
+    color:whitesmoke
+    /* color:#918e8e; */
 }
 
 
@@ -123,7 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 /* Banner Background and Text Colors */
 
-#banner {
+#banner-content {
     background: url("../images/banner-images/banner-image-1.png") no-repeat center top;
     background-size:cover;
 }
