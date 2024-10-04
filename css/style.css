@@ -133,6 +133,9 @@ figure {
     position: relative;
 }
 
+#content{
+    margin:0 8%;
+}
 
 /* --------- 1.1 Input Elements ---------- */
 
